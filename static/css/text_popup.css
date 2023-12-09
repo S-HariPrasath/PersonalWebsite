@@ -1,0 +1,14 @@
+.animated-text {
+    font-size: 36px;
+    font-weight: bold;
+    color: #3498db;
+    position: relative;
+    display: inline-block;
+    margin: 20px;
+    cursor: pointer;
+    transition: transform 5s ease-in-out;
+}
+
+.animate {
+    transform: rotate(5deg) scale(1.2);
+}

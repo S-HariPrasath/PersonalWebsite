@@ -1,0 +1,7 @@
+.text-container {
+    overflow: hidden;
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    white-space: pre-wrap;
+}

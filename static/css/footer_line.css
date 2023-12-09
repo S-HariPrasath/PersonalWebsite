@@ -1,0 +1,28 @@
+footer {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .footer-line {
+    border: none;
+    border-top: 2px solid #2269bb;
+    width: 100%;
+  }
+  
+  .copy {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #2527ce;
+    margin-left: 10px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .copy:hover {
+    color: #f00;
+  }
+  
+  .footer-line:hover {
+    border-top: 2px solid #f00;
+  }
